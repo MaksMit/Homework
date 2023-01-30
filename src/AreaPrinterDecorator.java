@@ -1,4 +1,3 @@
-// Structural pattern: Decorator
 class AreaPrinterDecorator implements Shape {
     private Shape shape;
 

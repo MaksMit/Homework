@@ -1,7 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
 
-// Structural pattern: Composite
 class ShapeGroup implements Shape {
     private List<Shape> shapes = new ArrayList<>();
 
